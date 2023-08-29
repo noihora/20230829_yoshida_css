@@ -21,11 +21,10 @@ a {
 
 .firstview_img {
   position: relative;  
-  top: 20%;
-  left: 20%;
+  top: 65px;
+  left: 40%;
   z-index: 10;
-  width: 800px;
-  height: 400px; 
+  width: 60%;; 
 }
 
 .firstview_img img {
