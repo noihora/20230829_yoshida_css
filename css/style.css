@@ -21,8 +21,8 @@ a {
 
 .firstview_img {
   position: relative;  
-  top: 50px;
-  left: 478px;
+  top: 20%;
+  left: 20%;
   z-index: 10;
   width: 800px;
   height: 400px; 
