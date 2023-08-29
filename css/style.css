@@ -1,0 +1,55 @@
+.frex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top-header {
+    color: darkblue;
+    font-size: 25px;
+    margin: 25px;
+}
+
+.top-header__nav { 
+  display: inline-block;
+  margin: 10px 15px auto;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.firstview_img {
+  display: block;
+  position: absolute;  
+  top: 130px;
+  left: 780px;
+  z-index: 10;
+  width: 730px;
+  height: auto; 
+}
+
+.firstview_img img {
+  width: 100%;
+  height: auto;
+}
+
+.absolute {
+    position: absolute;
+    top: 60%;
+    font-size: 80px;
+    font-weight: lighter;
+    z-index: 0;  
+}
+
+  .box {
+    position: absolute;
+    top: 500px;
+    z-index: 5;
+  }
+  
+  .blue-box {
+    width: 1100px;
+    height: 180px;
+    background-color: darkblue;
+  }
