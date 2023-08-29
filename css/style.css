@@ -20,12 +20,11 @@ a {
 }
 
 .firstview_img {
-  display: block;
   position: absolute;  
-  top: 130px;
-  left: 780px;
+  top: 150px;
+  left: 800px;
   z-index: 10;
-  width: 730px;
+  width: 700px;
   height: auto; 
 }
 
@@ -35,16 +34,16 @@ a {
 }
 
 .absolute {
-    position: absolute;
-    top: 60%;
+    position: relative;
+    top: 350px;
     font-size: 80px;
     font-weight: lighter;
     z-index: 0;  
 }
 
   .box {
-    position: absolute;
-    top: 500px;
+    position: relative;
+    top: 350px;
     z-index: 5;
   }
   
